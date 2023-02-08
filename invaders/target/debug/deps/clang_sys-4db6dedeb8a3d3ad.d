@@ -1,0 +1,13 @@
+/Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/deps/clang_sys-4db6dedeb8a3d3ad.rmeta: /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/lib.rs /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/support.rs /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/link.rs /Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out/common.rs /Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out/dynamic.rs
+
+/Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/deps/libclang_sys-4db6dedeb8a3d3ad.rlib: /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/lib.rs /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/support.rs /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/link.rs /Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out/common.rs /Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out/dynamic.rs
+
+/Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/deps/clang_sys-4db6dedeb8a3d3ad.d: /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/lib.rs /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/support.rs /Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/link.rs /Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out/common.rs /Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out/dynamic.rs
+
+/Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/lib.rs:
+/Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/support.rs:
+/Users/daanishkarim/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.4.0/src/link.rs:
+/Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out/common.rs:
+/Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/daanishkarim/Documents/Programming/RustCourse/invaders/target/debug/build/clang-sys-bbb0ef4e76e9c2eb/out

@@ -1,0 +1,1 @@
+{"rustc":18255118878432053315,"features":"[]","target":10623512480563079566,"profile":8344124108420085910,"path":7120020101074487040,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/cfg-if-e2d587e112ee9ed5/dep-lib-cfg-if"}}],"rustflags":["-L/opt/homebrew/opt/libomp/lib"],"metadata":8462187951337715540,"config":2202906307356721367,"compile_kind":0}
